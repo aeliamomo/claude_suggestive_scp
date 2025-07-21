@@ -1,7 +1,5 @@
 # claude_suggestive_scp
 
-# claude_testB_scptest
-
 
 Welcome to the Minimal Python Machine Learning Toolkit — a lightweight, near dependency-free project offering basic tools for data processing, statistical analysis, and machine learning using just Python 3.7+, NumPy, and scikit-learn.
 
